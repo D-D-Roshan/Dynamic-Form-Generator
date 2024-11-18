@@ -98,7 +98,7 @@ module.exports = {
 
 6. Set up Vite if you're using it for development:
 
-```bash
+```
 npm install vite
 ```
 
@@ -138,8 +138,8 @@ To set up this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/form-generator.git
-   cd form-generator
+   git clone https://github.com/D-D-Roshan/Dynamic-Form-Generator.git
+   cd Dynamic-Form-Generator
    ```
 
 2. Install the dependencies:
