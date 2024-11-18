@@ -10,11 +10,8 @@ Here are some images that showcase the app in action:
 
 ### Screenshot of the Form Generator Interface
 
-![Form Generator Interface](https://github.com/yourusername/form-generator/blob/main/assets/form-generator-interface.png)
+![Form Generator Interface](https://github.com/D-D-Roshan/Dynamic-Form-Generator/blob/main/images/Screenshot%20(147).png)
 
-### Example of a Contact Form Rendered
-
-![Contact Form Example](https://github.com/yourusername/form-generator/blob/main/assets/contact-form-example.png)
 
 ### Screenshot of the JSON Schema Editor
 
